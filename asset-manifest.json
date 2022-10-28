@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/juangomez88.github.io/TutoReact/static/css/main.fbbaff52.css",
+    "main.js": "/juangomez88.github.io/TutoReact/static/js/main.20150217.js",
+    "index.html": "/juangomez88.github.io/TutoReact/index.html",
+    "main.fbbaff52.css.map": "/juangomez88.github.io/TutoReact/static/css/main.fbbaff52.css.map",
+    "main.20150217.js.map": "/juangomez88.github.io/TutoReact/static/js/main.20150217.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbbaff52.css",
+    "static/js/main.20150217.js"
+  ]
+}
